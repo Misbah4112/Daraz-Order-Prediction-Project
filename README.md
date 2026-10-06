@@ -1,4 +1,4 @@
-# Daraz-Order-Prediction-Project# 
+# Daraz-Order-Prediction-Project
 
 A Streamlit app that predicts daily orders using Linear Regression based on website visitors, ad spend, discount percentage, and day type.
 
